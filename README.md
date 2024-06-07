@@ -2,7 +2,7 @@
 
 ## About
 
-\\sample
+\\sample1
 
 This is a demo project for practicing Spring + Thymeleaf. The idea was to build some basic shopping cart web app.
 
